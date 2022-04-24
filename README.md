@@ -12,9 +12,7 @@ DO TASK
   </a>
 </p>
 
-<div>
   ![task_project gif](https://user-images.githubusercontent.com/97061067/164995652-20528ed3-c654-4bca-b842-a74f9e9f0b19.gif)
-</div>
 
 <hr />
 
