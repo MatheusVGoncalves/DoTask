@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;900&display=swap');
+
+.home{
+    font-family: Roboto, sans-serif;
+}
+
+.home-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-image: url('img/home-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.home-title{
+    font-size: 8em;
+    font-weight: 900;
+    text-shadow: 1px 1px #dbe203;
+}
+
+.home-subtitle{
+    font-size: 1em;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+
+.home-help{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3em;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2.5em;
+}
+
+.home-help h2{
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.help-post h3{
+    font-size: 1.5em;
+    font-weight: 900;
+    padding-top: 1.5em;
+}
+
+.help-post p{
+    font-size: 1em;
+    font-weight: 300;
+}
+
+.help-post{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
