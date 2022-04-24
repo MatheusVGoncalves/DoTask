@@ -13,7 +13,7 @@ DO TASK
 </p>
 
 <div>
-  <img src="https://i.ibb.co/sJBQm2L/task-project-gif.gif" alt="demo-web" height="425">
+  ![task_project gif](https://user-images.githubusercontent.com/97061067/164995652-20528ed3-c654-4bca-b842-a74f9e9f0b19.gif)
 </div>
 
 <hr />
